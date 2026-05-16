@@ -1,4 +1,4 @@
-# 💰 Google Expense Sharing Analysis Project
+# Google Expense Sharing Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -7,7 +7,7 @@
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 The **Google Expense Sharing Analysis Project** is a Python-based data analysis project designed to analyze and visualize shared expenses among multiple individuals.
 
@@ -24,7 +24,7 @@ The project performs:
 
 ---
 
-# ❗ Problem Statement
+# Problem Statement
 
 Managing shared expenses manually can become confusing when multiple people contribute to different categories such as food, travel, bills, and shopping.
 
@@ -40,7 +40,7 @@ This project solves these challenges using Python-based data analysis and visual
 
 ---
 
-# 🎯 Business Objective
+# Business Objective
 
 The goal of this project is to:
 
@@ -52,7 +52,7 @@ The goal of this project is to:
 
 ---
 
-# 🛠️ Tech Stack Used
+# Tech Stack Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -66,7 +66,7 @@ The goal of this project is to:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 Google-Expense-Sharing-Analysis/
